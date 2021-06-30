@@ -21,8 +21,14 @@ Nowadays there are many situations where human beings are unable to accomplish a
 	- Oled display (128x64).
 	- Capacitor (2200μF-6.3V).
 	- Power supply (5V-1.5A).
+	- AT09 Bluetooth Module.
 
 
 ## Device and IDE
 	- Arduino IDE
 	- STM32Cube IDE
+	
+## Libraries Used
+* [Adafruit PWM servo library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
+* [Adafruit SSD1306 Oled display driver](https://github.com/adafruit/Adafruit_SSD1306)
+* [FreeRtos](https://www.freertos.org/)
